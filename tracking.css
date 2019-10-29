@@ -1,0 +1,58 @@
+#kotak-pertama {
+	width: 800px;
+	margin: 0 auto;
+	background: white;
+	padding : 30px;
+	border-radius: 10px;
+	border: 2px solid #c0392b;
+
+}
+
+.formsaya {
+	width: 750px;
+	margin: 0 auto;
+	padding: 10px;
+
+
+}
+
+.inputvalues {
+	width: 730px;
+	margin: 0 auto;
+	padding: 5px;
+	height: 100px;
+	border-color: black;
+	padding-bottom: 5px;
+	margin-top: 5px;
+}
+
+#track_btn {
+	background-color: #e74c3c;
+	color: white;
+	padding: 5px;
+	width: 730px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+#track_btn:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#solusi_order {
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+h1 {
+	text-align: center;
+	border: 10px;
+	border-radius: 10px;
+	border-color: black
+}
+
